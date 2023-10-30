@@ -1,0 +1,17 @@
+{
+  "name": "sl-rn-upi-payment",
+  "version": "1.0.0",
+  "scripts": {},
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react",
+    "javascript"
+  ],
+  "author": "Sunil Meena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sunilthecoder007/rn-upi/issues"
+  },
+  "homepage": "https://github.com/Sunilthecoder007/rn-upi/#readme"
+}
